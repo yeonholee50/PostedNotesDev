@@ -1,10 +1,63 @@
-PostedNotes serves as an ethical note sharing platform for users (students) to share notes as per permission of their instructors. In the modern note sharing, notes can cost to from $20 to about $40, which is very expensive. Also, it is illegal as a 
-student's notes is technically a course instructor's intellectual property, although it is rarely enforced due to how widespread and difficult it is to enforce.
+# PostedNotes - Ethical Note Sharing Platform 
 
-By using PostedNotes, students who download these notes for a one time fee (usually between $1~$5), can study for their next semester's courseworks at a lower cost or study for the final.
-It encourages sellers (students) to write good notes to get good ratings, which translates into higher probability of their notes being downloaded. Each course platform is granted after a written permission 
-(via email) is received from the course instructor. Additionally, course instructors can charge a pecentage (ranging from 0%-20%) commission depending on each user posting notes under their course.
-A 5% commission is given on behalf of the development team to further develop the platform. To follow Academic Honesty, the platform is monitored daily to make sure no exam materials or instructor's 
-notes are posted. The notes must be purely handwritten by students and uploaded as jpg or png. 
+## Overview
 
-The Development of this project is currently funded by CreateX and is in its prototyping stage. 
+**PostedNotes** is an innovative note-sharing platform designed to foster an ethical and cost-effective environment for students to share and access academic notes. By obtaining instructor permission and incorporating a fair commission structure, the platform aims to provide a sustainable model that benefits both students and course instructors.
+
+## Features
+
+1. **Cost-Effective and Legal Sharing**: PostedNotes provides an affordable and legal alternative to traditional note-sharing platforms. By charging a reasonable fee per download, it ensures that students can access valuable notes without resorting to illegal or expensive options.
+
+2. **Instructor Collaboration**: Instructors actively participate in the platform by granting permission for note sharing and optionally receiving a commission on sales. This collaboration helps create a symbiotic relationship between students and instructors.
+
+3. **Quality Incentives**: The platform incentivizes students to create high-quality notes through a rating system. Positive ratings increase the visibility of a student's notes, fostering a culture of academic excellence.
+
+4. **Secure File Formats**: To maintain the integrity of academic materials, only handwritten notes in JPG or PNG formats are accepted. This ensures that notes are genuine and contributes to a fair and honest educational environment.
+
+5. **Active Monitoring for Academic Honesty**: The platform is monitored daily to prevent the posting of exam materials or instructor's notes, adhering to strict academic honesty standards. Any violations are promptly addressed.
+
+## User Interaction
+
+1. **Student Users**:
+   - Students can browse and download notes for their courses.
+   - Sellers (students) can upload notes after obtaining instructor permission.
+   - Quality notes are encouraged through positive ratings from downloaders.
+
+2. **Instructor Users**:
+   - Instructors can grant permission for note sharing under their courses.
+   - Optionally, instructors may charge a commission on sales, providing an additional revenue stream.
+
+## Usage Guidelines
+
+1. **Permission Process**:
+   - Students must obtain written permission (via email) from course instructors before sharing notes.
+
+2. **Transaction Fees**:
+   - Sellers can set a one-time download fee (typically between $1-$5).
+   - Instructors can charge a commission (0%-20%) on notes shared under their courses.
+
+3. **Quality Assurance**:
+   - Notes must be handwritten, uploaded in JPG or PNG format, and adhere to academic honesty standards.
+
+4. **Active Monitoring**:
+   - The platform actively monitors content to ensure compliance with academic honesty standards.
+
+## Development Roadmap
+
+- **Prototyping Stage (Current)**:
+  - Development is supported by CreateX, focusing on building and refining the core features of the platform.
+
+- **Future Enhancements**:
+  - Integration of collaborative tools for real-time note editing.
+  - Implementation of discussion forums for each course platform.
+  - Mobile application development for improved accessibility.
+
+## Disclaimer
+
+**PostedNotes** is developed with the intention of providing a secure, ethical, and affordable note-sharing platform. Users are expected to adhere to academic honesty standards. Any violation may result in the removal of content. The platform is actively monitored for compliance.
+
+## Funding
+
+The development of PostedNotes is currently funded by CreateX, supporting the creation and improvement of the platform.
+
+

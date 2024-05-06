@@ -25,6 +25,6 @@ Posted Notes is an ethical note-sharing platform that facilitates the legal exch
 4. Rate sellers based on the quality of their notes.
 
 ## Contributing
-Contributions are welcome! Please fork the repository and submit pull requests for features you deem to be necessary for this project.
+Contributions are welcome! Please fork the repository and submit pull requests for features you deem to be necessary for this project. Currently, we are focussing on usability and functionality before assessing payment options.
 
 

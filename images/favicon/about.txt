@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Instrument Serif
-- Font Author: Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)
-- Font Source: http://fonts.gstatic.com/s/instrumentserif/v4/jizHRFtNs2ka5fXjeivQ4LroWlx-6zATi3TNgNq55w.ttf
-- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

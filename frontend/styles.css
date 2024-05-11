@@ -1,28 +1,64 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
+  background-color: #f8f9fa; /* Light gray */
 }
-
 .container {
-    margin-top: 50px;
+  margin-top: 100px;
 }
-
-.navbar {
-    margin-bottom: 30px;
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-
-.form-container {
-    background-color: #fff;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+.card-header {
+  background-color: #4caf50; /* Green */
+  color: white;
+  font-weight: bold;
+  border-radius: 10px 10px 0 0;
 }
-
 .btn-primary {
-    background-color: #007bff;
-    border: none;
+  background-color: #4caf50; /* Green */
+  border-color: #4caf50; /* Green */
+  width: 100%;
+  font-weight: bold;
+}
+.btn-primary:hover {
+  background-color: #45a049; /* Darker green */
+  border-color: #45a049; /* Darker green */
+}
+.form-control {
+  border-radius: 10px;
+  border-color: #dee2e6;
+}
+.register-link {
+  text-align: center;
+  margin-top: 20px;
+}
+.hidden {
+  display: none;
+}
+.navbar {
+  background-color: #4caf50; /* Green */
 }
 
-.btn-primary:hover {
-    background-color: #0056b3;
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-nav .nav-link {
+  margin-right: 20px;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f8f9fa; /* Light gray */
+}
+
+.navbar-toggler-icon {
+  background-color: white;
+}
+
+/* Container for the navigation bar */
+.container-nav {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }

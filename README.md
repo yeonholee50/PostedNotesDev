@@ -27,4 +27,12 @@ Posted Notes is an ethical note-sharing platform that facilitates the legal exch
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for features you deem to be necessary for this project. Currently, we are focussing on usability and functionality before assessing payment options.
 
+## Version 1.0:
+- Able to create account
+- Able to verify user credential
+- Able to upload notes onto the account with no visibility
+
+## Version 2.0: - currently getting fixed
+- Able to facillitate payment
+- Upon receiving payment, the buyer should be given a correct API key to call from his/her side the notes
 

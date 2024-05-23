@@ -11,13 +11,6 @@ Posted Notes is an ethical note-sharing platform that facilitates the legal exch
 - Ratings: Buyers can rate sellers' notes, and average ratings will be displayed on user profiles to establish credibility.
 - Payment Structure: Payment is facilitated through Visa, Plaid, or another API. The platform charges a 5% fee, with 95% going to the seller.
 
-## Installation
-1. Clone the repository: `git clone https://github.com/your-username/posted-notes.git`
-2. Navigate to the backend directory: `cd posted-notes/backend`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the backend server: `python app.py`
-5. Open `index.html` in your browser to access the frontend.
-
 ## Usage
 1. Create a user account and verify your identity.
 2. Explore available courses and instructors.
